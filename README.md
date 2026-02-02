@@ -16,7 +16,7 @@ Application météo simple en **JavaScript** qui permet de saisir une ville et d
 - JavaScript  
 - API de météo (API utilisé OpenWeatherMap)  
 
-## 📦 Installation et utilisation
+##  Installation et utilisation
 
 1. Clone le dépôt :
    ```bash
